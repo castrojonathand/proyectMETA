@@ -2,7 +2,8 @@
 
 export default function Home() {
   return (
-    <h1>Hi metaSoccer, I'm learning Typescript for you and me too...</h1>
+    // eslint-disable-next-line react/no-unescaped-entities
+    <h1>Hi metaSoccer, I'm learning Typescript</h1>
     
   )
 }
