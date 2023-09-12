@@ -15,3 +15,4 @@ export class CommentModel implements Comment {
         public playerId?: string,
     ) {}
 }
+
